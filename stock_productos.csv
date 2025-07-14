@@ -1,0 +1,12 @@
+ID Producto,Nombre Producto,Categoria,Descripción,Precio,Stock
+P001,Laptop Lenovo ThinkPad,Laptop,Intel i7 16GB RAM 512GB SSD,3200,5
+P002,Mouse Logitech M185,Mouse,Inalámbrico USB,60,12
+P003,Monitor LG 24'',Monitor,Full HD HDMI,650,0
+P004,Teclado Redragon K552,Teclado,RGB switches rojos,180,0
+P005,Auriculares HyperX Cloud,Auriculares,Gaming micrófono incluido,350,3
+P006,Disco SSD Kingston 1TB,Disco SSD,SATA III 2.5'',420,10
+P007,Webcam Logitech C920,Webcam,Full HD 1080p,290,6
+P008,Router TP-Link Archer AX10,Router,Wi-Fi 6 doble banda,370,4
+P009,Tablet Samsung Galaxy Tab A8,Tablet,10.5'' 64GB,890,2
+P010,Impresora HP DeskJet 2720e,Impresora,Multifunción Wi-Fi,430,7
+P011,Teclado Redragon K551,Teclado,RGB switches rojos,150,1

@@ -1,0 +1,11 @@
+ID Pedido,Nombre Cliente,Correo,Producto,Fecha Compra,Fecha Entrega,Estado Pedido,Tipo Consulta,Estado Resolución
+PED20240000,Alexander Changa,alexander.changa29@gmail.com,Mouse Logitech M185,02/07/2025,,Pendiente de envío,Cambio de producto,Resuelto
+PED20240011,Alexander Changa,alexander.changa29@gmail.com,Teclado Redragon K552,10/07/2025,13/07/2025,Entregado,,
+PED20240002,Alexander Changa,alexander.changa29@gmail.com,Router TP-Link Archer AX10,31/05/2025,05/06/2025,Entregado,,
+PED20240003,Alexander Changa,alexander.changa29@gmail.com,SSD Kingston 480GB,14/05/2025,17/05/2025,Devuelto,Soporte técnico,En proceso
+PED20240004,Alexander Changa,alexander.changa29@gmail.com,SSD Kingston 480GB,17/05/2025,,En tránsito,,
+PED20240005,Alexander Changa,alexander.changa29@gmail.com,Monitor LG 24'',17/05/2025,,Pendiente de envío,,
+PED20240006,Alexander Changa,alexander.changa29@gmail.com,Mouse Logitech M185,6/07/2025,,En tránsito,Cambio de producto,Resuelto
+PED20240007,Alexander Changa,alexander.changa29@gmail.com,Webcam Logitech C920,18/05/2025,,En tránsito,Seguimiento de pedido,Pendiente de respuesta
+PED20240008,Alexander Changa,alexander.changa29@gmail.com,Impresora HP DeskJet 2720e,25/05/2025,,Pendiente de envío,,
+PED20240009,Alexander Changa,alexander.changa29@gmail.com,Tablet Samsung Galaxy Tab A8,9/06/2025,,En tránsito,,
