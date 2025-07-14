@@ -1,5 +1,16 @@
 # POSTAGENT – IA ESPECIALIZADA EN POSTVENTA
 
+**Construye un asistente conversacional** que combina:
+
+- **LangChain** para orquestar la lógica de IA  
+- **RAG** (Retrieve‑Augment‑Generate) sobre **Elasticsearch 8.x**  
+- **Memoria de corto plazo** con **Cloud SQL (PostgreSQL)** y checkpoints  
+- **Trazabilidad** completa vía **LangSmith**  
+- Despliegue **Docker → Cloud Run (GCP)** y **UI React / Next.js en Vercel**
+
+> Video Presentación: https://youtu.be/8zSyy7y40Do?si=28l5-ueja8qw881h
+
+---
 
 ## ⬇️ Contenido del repositorio
 
